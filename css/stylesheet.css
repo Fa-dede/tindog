@@ -3,7 +3,7 @@
 body {
   /* background-size: 2000px; */
   background: url("../img/16899418635_77967e8765_o.jpg") no-repeat center;
-  background-size: 100%;
+  background-size: cover;
   backdrop-filter: brightness(70%);
   position: relative;
   background-attachment: fixed;
